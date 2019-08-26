@@ -1,2 +1,0 @@
-# react-essential
-react-essential
